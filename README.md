@@ -7,6 +7,7 @@ Actividad 9, clase version 3 humano
 ![image](https://github.com/user-attachments/assets/093578b6-4a81-4e2d-a1b2-c9daba869c6d)
 
 - resultado
+- 
 -![image](https://github.com/user-attachments/assets/4f65dff3-37a5-45a0-b0ed-0134bc680ee0)
 
 
